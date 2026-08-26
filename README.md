@@ -1,10 +1,8 @@
 #  Maicon Bortoli
 
-**`Engenheiro de Software`**
 
 
 
-###  Linguagens e Tecnologias
 
 <img 
     align="left" 
