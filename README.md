@@ -1,5 +1,7 @@
 #  𝗠𝗮𝗶𝗰𝗼𝗻 𝗕𝗼𝗿𝘁𝗼𝗹𝗶
 
+Estudante de Engenharia de Software · Desenvolvedor Web
+
 <img 
     align="left" 
     alt="HTML"
@@ -24,7 +26,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -33,7 +34,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -50,7 +50,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="C#"
@@ -59,7 +58,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
-
  <img 
     align="left" 
     alt="dot-net"
@@ -68,7 +66,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
 />
-
  <img 
     align="left" 
     alt="azuresqldatabase"
@@ -77,7 +74,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-
  <img 
     align="left" 
     alt="mysql"
@@ -86,9 +82,5 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-
 <br/>
 <br/>
-
-
