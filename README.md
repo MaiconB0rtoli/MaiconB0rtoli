@@ -1,9 +1,5 @@
 #  𝗠𝗮𝗶𝗰𝗼𝗻 𝗕𝗼𝗿𝘁𝗼𝗹𝗶
 
-
-
-
-
 <img 
     align="left" 
     alt="HTML"
@@ -64,7 +60,14 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-     
+     <img 
+    align="left" 
+    alt="dot-net"
+    title="dot-net" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
+/>
          
 <br/>
 <br/>
