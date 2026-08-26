@@ -1,6 +1,8 @@
-#  𝗠𝗮𝗶𝗰𝗼𝗻 𝗕𝗼𝗿𝘁𝗼𝗹𝗶
+#  𝙼𝚊𝚒𝚌𝚘𝚗 𝙱𝚘𝚛𝚝𝚘𝚕𝚒
 
-Estudante de Engenharia de Software · Desenvolvedor Web
+𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 · 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛 𝚆𝚎𝚋
+
+<br/>
 
 <img 
     align="left" 
